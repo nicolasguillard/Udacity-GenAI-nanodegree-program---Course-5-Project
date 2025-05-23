@@ -24,4 +24,8 @@ Via l'application reposant sur gradio afin de disposer d'une interface utilisaeu
 ```bash
 python HomeMatch.py
 ```
+
+![HomeMatch Gradio User Interface](https://github.com/nicolasguillard/Udacity-GenIA-nanodegree-program---Course-5-Project/blob/main/homematch_gradio_screenshot.png?raw=true)
+
+
 En dehors de l'interface utilisateur, ce script reprend tout le code relatif aux fonctionnalités de recherche et d'augmentation d'annonces présent dans le carnet Jupyter `HomeMatch.ipynb`.
