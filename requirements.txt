@@ -13,3 +13,5 @@ langchain_community
 langchain-openai
 jq
 langchain-chroma
+python-dotenv
+tqdm
