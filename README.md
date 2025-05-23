@@ -25,6 +25,6 @@ Via gradio-based application to provide a user interface for searching the vecto
 python HomeMatch.py
 ```
 
-![HomeMatch Gradio User Interface](https://github.com/nicolasguillard/Udacity-GenIA-nanodegree-program---Course-5-Project/blob/main/homematch_gradio_screenshot.png?raw=true)
+![HomeMatch Gradio User Interface](https://github.com/nicolasguillard/Udacity-GenAI-nanodegree-program---Course-5-Project/blob/main/homematch_gradio_screenshot.png?raw=true)
 
 Apart from the user interface, this script takes over all the code relating to the search and ad increase functionalities present in the Jupyter `HomeMatch.ipynb` notebook.
